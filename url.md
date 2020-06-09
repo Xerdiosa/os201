@@ -2,6 +2,7 @@
 layout: default
 title: "Muhammad Aulia Akbar | url"
 theme: jekyll-theme-midnight
+permalink: /URLs/
 ---
 
 # Kumpulan URL
